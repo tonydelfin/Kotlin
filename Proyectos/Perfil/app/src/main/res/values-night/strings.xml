@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Perfil</string>
+    <string name="hint_name">Nombre:</string>
+    <string name="hint_email">Correo Electrónico:</string>
+    <string name="hint_wensite">Sitio Web:</string>
+    <string name="hint_phone">Teléfono:</string>
+    <string name="hint_location">Locación:</string>
+    <string name="main_show_map">Ver en el Mapa</string>
+
+    <string name="hint_ubication">Habilitar Ubicación</string>
+    <string name="main_settiings">Habilitar Ubicación</string>
+    <string name="edit_title">Editar datos de Usuario</string>
+    <string name="hint_latitud">Latitúd:</string>
+    <string name="hint_Longitud">Longitúd:</string>
+
+    <string name="key_name">k_name</string>
+    <string name="key_email">k_email</string>
+    <string name="key_website">k_website</string>
+    <string name="key_phone">k_phone</string>
+    <string name="key_latitud">k_lat</string>
+    <string name="key_longitud">k_long</string>
+    <string name="profile_error_no_resolve">No se encontro unn app compatible</string>
+    <string name="main_settings">Habilitar Ubicación</string>
+    <string name="key_image">Key_image</string>
+    <string name="settings_title">Configuración</string>
+    <string name="preferences_touch_title">Touch</string>
+    <string name="preferences_enable_clicks">Habilitar Clicks</string>
+    <string name="preferences_key_enable_clicks">pref_enable_cliks</string>
+    <string name="preferences_data_title">Datos</string>
+    <string name="preferences_delete_data">Eliminar datos del Usuario</string>
+    <string name="preferences_key_delete_data">pref_delete_data</string>
+    <string name="preferences_restore_data">Restaurar datos y configuración</string>
+    <string name="preferences_key_restore_data">pref_restore_data</string>
+    <string name="preferences_ui_title">Interfaz</string>
+    <string name="preferences_img_size_small">Chica</string>
+    <string name="preferences_img_size_medium">Mediana</string>
+    <string name="preferences_img_size_large">Grande</string>
+    <string name="preferences_key_img_size_small">pref_small</string>
+    <string name="preferences_key_img_size_medium">pref_medium</string>
+    <string name="preferences_key_img_size_large">pref_large</string>
+
+
+</resources>
